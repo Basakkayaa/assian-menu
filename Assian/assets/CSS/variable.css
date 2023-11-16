@@ -1,0 +1,101 @@
+.logo{
+    font-family: "Great Vibes", cursive;
+    font-size: 2.5rem;
+    text-align: center;
+    color: aliceblue;
+}
+.text{
+
+    font-size: 18px;
+    color: aliceblue;
+
+}
+.btn_nav{
+    width: 90px;
+    height: 30px;
+    border-radius: 10px;
+    color:  #e00a00;
+    border: none;
+}
+
+
+#form{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top:20px;
+    left: 30%;
+    right: 50%;
+    /* gap:30px; */
+    border: 1px solid black;
+    margin-top: 110px;
+}
+.form-group{
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.btn{
+    width: 90px;
+    margin-left: 50px;
+    background-color: rgb(232, 217, 206);
+    margin-left: 200px;
+}
+
+.menu_box{
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: justify;
+
+}
+/* border radius */
+.br-15{
+    border-radius:15px ;
+}
+
+.br-30{
+    border-radius: 30px;
+}
+/* center */
+.text-align{
+  text-align: center;
+}
+.item-center{
+    align-items: center;
+}
+/* ******Font */
+.font-300{
+    font-weight: 300;
+}
+
+.font-700{
+    font-weight: 700;
+}
+
+/* Text */
+.text-24{
+    font-size: 24px;
+}
+
+/* Margin */
+.mt-20{
+    margin-top: 20px;
+}
+.ml-10{
+    margin-left: 20%;
+
+}
+.mt-20{
+    margin-top: 10%;
+}
+/* stil */
+.stil{
+    font-family: "Great Vibes", cursive;
+}
+
+.number_list{
+    list-style-type: decimal;
+    margin-left: 50px;
+}
